@@ -25,6 +25,11 @@ This repo is divided into 3 main folders
 2. Then put the heat inserts in the backplate
 3. Then align the PCB carefully and screw everything in
 
+# Timeline
+Schematic and research took me around 25 hours
+and making the PCB took around 45 hours
+and 3d enclosure took around 30 hours of trial and error
+
 # Current STATUS
 1. PCB design is complete
 2. Enclosure is complete
