@@ -53,11 +53,16 @@ This repo is divided into 3 main folders
 #   How to assemble it
 1. First, take the display and align it with the cutout for the display and screw it in
 2. Then put the heat inserts in the backplate
-3. Then glue the Charging module onto the little platform near xiao
-4. Then align the PCB carefully and screw everything in
+3. Then insert the switch on the right side of the enclosure
+4. Then wire the switch between the battery input and the charging module, the input
+5. Then glue the Charging module onto the little platform near Xiao
+6. Then solder the charging module's power path to the 5V pin and GND, situated on the top left
+7. and solder the bat-in
+8. Then cover the battery with Kapton tape, then stick it on the back of the PCB in the designated cutout using ddouble-sidedtape 
+9. Then align the PCB carefully and screw everything in
 # Flashing custom firmware
 To flash the firmware, you will need to open the Meshtastic web flasher (https://flasher.meshtastic.org/)
-Then, in the select target section, select Seed Studio Xiao,then select your firmware file and hit flash
+Then, in the select target section, select Seed Studio Xiao, then select your firmware file and hit flash
 # Timeline
 Schematic and research took me around 25 hours
 and making the PCB took around 45 hours
