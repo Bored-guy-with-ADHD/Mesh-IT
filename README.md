@@ -53,8 +53,11 @@ This repo is divided into 3 main folders
 #   How to assemble it
 1. First, take the display and align it with the cutout for the display and screw it in
 2. Then put the heat inserts in the backplate
-3. Then align the PCB carefully and screw everything in
-
+3. Then glue the Charging module onto the little platform near xiao
+4. Then align the PCB carefully and screw everything in
+# Flashing custom firmware
+To flash the firmware, you will need to open the Meshtastic web flasher (https://flasher.meshtastic.org/)
+Then, in the select target section, select Seed Studio Xiao,then select your firmware file and hit flash
 # Timeline
 Schematic and research took me around 25 hours
 and making the PCB took around 45 hours
