@@ -72,38 +72,6 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "duplicate_footprints|115000000|215000000|688747f5-f2d6-47cf-8266-64f94df9736f|5f6557be-925b-4d85-9917-b87d2b44e45a",
-          ""
-        ],
-        [
-          "duplicate_footprints|175142034|200940287|eef0a7ef-a509-4501-b200-a0237ac12944|7dc23443-dd84-45dc-9039-92f74c217121",
-          ""
-        ],
-        [
-          "duplicate_footprints|184850000|112000000|c192236f-2cdb-4bd2-ab01-85ec35671bfb|5f6557be-925b-4d85-9917-b87d2b44e45a",
-          ""
-        ],
-        [
-          "duplicate_footprints|184850000|215000000|7dbb824c-c37d-41b9-a0b3-5b1354af9339|5f6557be-925b-4d85-9917-b87d2b44e45a",
-          ""
-        ],
-        [
-          "duplicate_footprints|254700000|112000000|9d2237fb-b36a-4618-8ee3-641297233896|5f6557be-925b-4d85-9917-b87d2b44e45a",
-          ""
-        ],
-        [
-          "duplicate_footprints|255000000|215000000|9783a748-c832-4016-8a72-23aab2031618|5f6557be-925b-4d85-9917-b87d2b44e45a",
-          ""
-        ],
-        [
-          "shorting_items|191693376|200989936|7c85f573-7700-47cf-b229-4514f33fa4a6|e7b802d3-bd10-4dcc-8cd1-ba157708fd34",
-          ""
-        ],
-        [
-          "shorting_items|191693376|205489936|629e5b3e-461b-4d74-8502-0cc325bc6941|672bc4dd-0574-43d1-b96c-15003931d5e9",
-          ""
-        ],
-        [
           "silk_edge_clearance|109672499|149204018|83df3442-f7a0-4926-8252-69d4b72c86f7|8bace5f1-67f3-41a2-874d-3fcb16086a6f",
           ""
         ],
@@ -169,14 +137,6 @@
         ],
         [
           "silk_over_copper|128048100|131410000|cab805e9-5ac1-42a7-b3ff-dec7ed2c6785|74357e5d-1686-4abb-86d2-f971441d024b",
-          ""
-        ],
-        [
-          "solder_mask_bridge|191693376|200989936|7c85f573-7700-47cf-b229-4514f33fa4a6|e7b802d3-bd10-4dcc-8cd1-ba157708fd34",
-          ""
-        ],
-        [
-          "solder_mask_bridge|191693376|205489936|629e5b3e-461b-4d74-8502-0cc325bc6941|672bc4dd-0574-43d1-b96c-15003931d5e9",
           ""
         ],
         [
@@ -643,7 +603,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "codeBuzz.kicad_pro",
+    "filename": "Mesh-IT.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -662,7 +622,6 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -671,19 +630,17 @@
         "name": "SCL",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "tuning_profile": ""
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
         "name": "SDA",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "tuning_profile": ""
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
     "meta": {
-      "version": 5
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -1005,8 +962,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "codeBuzz.kicad_sch",
-        "name": "codeBuzz",
+        "filename": "Mesh-IT.kicad_sch",
+        "name": "Mesh-IT",
         "uuid": "feb8e41d-7a02-4adf-9a5f-f3989c5318a1"
       }
     ],
