@@ -58,8 +58,8 @@ This repo is divided into 3 main folders
 5. Then glue the Charging module onto the little platform near Xiao
 6. Then solder the charging module's power path to the 5V pin and GND, situated on the top left
 7. and solder the bat-in
-8. Then cover the battery with Kapton tape, then stick it on the back of the PCB in the designated cutout using ddouble-sidedtape 
-9. Then align the PCB carefully and screw everything in
+8. Then cover the battery with Kapton tape, and stick it on the back of the PCB in the designated cutout using double-sided tape 
+9. Then align the PCB carefully and screw everything in(The case was engineered so that the battrey wont come lose, i didnt make an enclosure to avoid squiching the battrey)
 # Flashing custom firmware
 To flash the firmware, you will need to open the Meshtastic web flasher (https://flasher.meshtastic.org/)
 Then, in the select target section, select Seed Studio Xiao, then select your firmware file and hit flash
