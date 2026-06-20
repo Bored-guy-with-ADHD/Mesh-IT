@@ -1,6 +1,8 @@
 # Mesh-IT
 Mesh-IT is a handheld messaging device, designed with a full QWERTY keyboard
- with extra customisable buttons.
+ with extra customisable buttons.<img width="575" height="322" alt="image" src="https://github.com/user-attachments/assets/de2554e7-13bb-402e-933a-5493bd6a37ff" /><img width="704" height="446" alt="Screenshot 2026-06-20 202550" src="https://github.com/user-attachments/assets/c261414c-121f-462f-b459-bc8c77dcbf50" />
+
+
 # Features
 This design features a Seed Studio XIAO ESP32-S3 & Wio-SX1262 Kit. It Features an 2.8-Inch Colour tft display, a
 joystick for navigation, and it's battery-powered, 5x7 matrix. More info will be added later,
