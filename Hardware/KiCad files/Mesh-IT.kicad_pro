@@ -643,7 +643,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "codeBuzz.kicad_pro",
+    "filename": "Mesh-IT.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1005,8 +1005,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "codeBuzz.kicad_sch",
-        "name": "codeBuzz",
+        "filename": "Mesh-IT.kicad_sch",
+        "name": "Mesh-IT",
         "uuid": "feb8e41d-7a02-4adf-9a5f-f3989c5318a1"
       }
     ],
