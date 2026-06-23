@@ -7,7 +7,8 @@ I made this to solve a critical problem: communication in rural areas
 I chose LoRa for a reason, it has excellent range and is low power, and it's cheap, costing around 60$ for 1 unit of Mesh-IT
 # Project Images
 ## Zine 
-<img width="322" height="452" alt="ZINE PAGE&#39;" src="https://github.com/user-attachments/assets/34a33abc-fa87-46fa-a572-58b1bb5d610c" />
+<img width="1410" height="2000" alt="fallout_zine" src="https://github.com/user-attachments/assets/8d63d006-2a22-4a93-bdab-788881499dc2" />
+
 
 ## PCB
 <img width="1191" height="788" alt="Screenshot 2026-06-12 205714" src="https://github.com/user-attachments/assets/c7d9d96f-2b8f-473c-87dd-9572fddcce1d" />
