@@ -17,7 +17,7 @@ I chose LoRa for a reason, it has excellent range and is low power, and it's che
 
 # Repository structure
 This repo is divided into 3 main folders
-1. Assets: Contains the zine page, PCB photo,B and  OM Link
+1. Assets: Contains the zine page, PCB photo, and BOM Link
 2. Hardware: contains the KiCad files, Gerber files, and enclosure files
 3. Software: contains the Meshtastic source code used for the project
 # BOM
@@ -58,7 +58,7 @@ This repo is divided into 3 main folders
 5. Then glue the Charging module onto the little platform near Xiao
 6. Then solder the charging module's power path to the 5V pin and GND, situated on the top left
 7. and solder the bat-in
-8. Then cover the battery with Kapton tape, and stick it on the back of the PCB in the designated cutout using double-sided tape 
+8. Then cover the battery with Kapton tape, and stick it on the back of the PCB in the designated Silkscreen area using double-sided tape(Preferred 3KG one) 
 9. Then align the PCB carefully and screw everything in(The case was engineered so that the battrey wont come lose, i didnt make an enclosure to avoid squiching the battrey)
 # Flashing custom firmware
 To flash the firmware, you will need to open the Meshtastic web flasher (https://flasher.meshtastic.org/)
