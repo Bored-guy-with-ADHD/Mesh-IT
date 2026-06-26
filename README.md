@@ -11,7 +11,8 @@ I chose LoRa for a reason, it has excellent range and is low power, and it's che
 
 
 ## PCB/schematic
-<img width="1191" height="788" alt="Screenshot 2026-06-12 205714" src="https://github.com/user-attachments/assets/c7d9d96f-2b8f-473c-87dd-9572fddcce1d" />
+<img width="539" height="412" alt="image" src="https://github.com/user-attachments/assets/be27aa5f-4059-4101-ab83-c725ffd8c5eb" />
+
 
 <img width="464" height="353" alt="image" src="https://github.com/user-attachments/assets/525396f2-6350-4e30-a811-dbd72bfcd517" />
 
@@ -23,6 +24,8 @@ I chose LoRa for a reason, it has excellent range and is low power, and it's che
 
 ## Enclosure render
 <img width="395" height="206" alt="image" src="https://github.com/user-attachments/assets/218a156f-e5f5-49ea-812a-2be417c6faad" />
+
+# onshape links
 
 # Repository structure
 This repo is divided into 3 main folders
