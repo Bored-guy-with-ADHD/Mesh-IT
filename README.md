@@ -26,7 +26,11 @@ I chose LoRa for a reason, it has excellent range and is low power, and it's che
 <img width="395" height="206" alt="image" src="https://github.com/user-attachments/assets/218a156f-e5f5-49ea-812a-2be417c6faad" />
 
 # onshape links
-
+assembly link
+(https://cad.onshape.com/documents/168fda0a8f16824cccb64ee6/w/7f9acbf670b84dd77c93c7b4/e/36fa08238f3aeb1c026e0e22?configuration=default&renderMode=0&uiState=6a3eabcf2515b7f76c28e72d)
+original workspace link (https://cad.onshape.com/documents/f08658297db9b835bf0cb4c0/w/964f5e8aa7a9c980c94da242/e/11eb6b47f6372a176f6b115a?renderMode=0&uiState=6a3ea8e317568eae833ef321)
+STEP FILES
+(https://cad.onshape.com/documents/0d6a45b3dd53ce5ed637c55e/w/97f38c8d6e16f4a215b96871/e/82edf1f08dcd1788016565fc?renderMode=0&uiState=6a39f55f4e6c75de72b5becf)
 # Repository structure
 This repo is divided into 3 main folders
 1. Assets: Contains the zine page, PCB photo, and BOM Link
