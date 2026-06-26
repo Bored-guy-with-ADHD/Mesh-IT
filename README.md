@@ -10,8 +10,16 @@ I chose LoRa for a reason, it has excellent range and is low power, and it's che
 <img width="1410" height="2000" alt="fallout_zine" src="https://github.com/user-attachments/assets/8d63d006-2a22-4a93-bdab-788881499dc2" />
 
 
-## PCB
+## PCB/schematic
 <img width="1191" height="788" alt="Screenshot 2026-06-12 205714" src="https://github.com/user-attachments/assets/c7d9d96f-2b8f-473c-87dd-9572fddcce1d" />
+
+<img width="464" height="353" alt="image" src="https://github.com/user-attachments/assets/525396f2-6350-4e30-a811-dbd72bfcd517" />
+
+
+<img width="602" height="413" alt="image" src="https://github.com/user-attachments/assets/09a61ae0-3c31-447e-b93d-f6622d7db305" />
+
+<img width="560" height="385" alt="image" src="https://github.com/user-attachments/assets/a99870bd-fc25-41f9-8496-75a094be952b" />
+
 
 ## Enclosure render
 <img width="395" height="206" alt="image" src="https://github.com/user-attachments/assets/218a156f-e5f5-49ea-812a-2be417c6faad" />
